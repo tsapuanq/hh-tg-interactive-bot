@@ -16,4 +16,4 @@ venv/
 .vscode/
 
 # Logs
-*.log
+*.log.env
